@@ -256,7 +256,7 @@ Módulo analítico.
 # 📂 Estructura del proyecto
 
 ```bash
-SkyReserve/
+Sistema-Aerolinea/
 │
 ├── frontend/
 │   ├── components/
@@ -370,7 +370,7 @@ Pasajero → Búsqueda → Reservación → Pago → Ticket → Check-in
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/skyreserve-airline-system.git
+git clone https://github.com/isairey/Sistema-Aerolinea.git
 ```
 
 ---
@@ -378,7 +378,7 @@ git clone https://github.com/usuario/skyreserve-airline-system.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd skyreserve-airline-system
+cd Sistema-Aerolinea
 ```
 
 ---
@@ -436,27 +436,6 @@ http://localhost:3000
 
 ---
 
-# 📸 Vista previa
-
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### ✈️ Dashboard de vuelos
-![Flights](https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=1200)
-
-### 🎫 Sistema de reservaciones
-![Booking](https://images.unsplash.com/photo-1502920917128-1aa500764ce7?q=80&w=1200)
-
-### 🌍 Gestión aeroportuaria
-![Airport](https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?q=80&w=1200)
-
-### 💺 Selección de asientos
-![Seats](https://images.unsplash.com/photo-1540339832862-474599807836?q=80&w=1200)
-
-</div>
-
----
 
 # 👥 Roles del sistema
 
@@ -530,7 +509,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Full Stack Developer
+## Isai Reyes - Full Stack Developer
 
 Desarrollador apasionado por plataformas empresariales, sistemas de reservación y arquitecturas modernas 🚀
 
